@@ -11,4 +11,5 @@ Come to report an issue? **Unless you are a developer** issues should ONLY be op
 
 ## Information 🛸
 This project is currently managed by Michael Erez [@wylde-erez](https://github.com/wylde-erez)
+
 Administrative and donations are managed by David Hoffman [@saltcedar](https://github.com/saltcedar)
